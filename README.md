@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="hakari.gif" width="700">
+  <img src="your-image-name.png" width="700">
 </p>
