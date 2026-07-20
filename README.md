@@ -21,7 +21,5 @@
 <p align="center">
   <img src="https://files.catbox.moe/cfbw3a.gif" alt="GIF 1">
 </p>
-
-<p align="center">
-  <img src="https://files.catbox.moe/zq6bkj.gif" alt="GIF 2">
+<p align="center">  <imgsrc="https://files.catbox.moe/zq6bkj.gif" alt="GIF 2">
 </p>
