@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/xgwmvo.jpg" width="650">
+  <img src="https://files.catbox.moe/2yuy7b.gif" width="700">
 </p>
 
 ---
