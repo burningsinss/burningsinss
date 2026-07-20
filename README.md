@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/jspyg5.webp" width="500">
+  <img src="https://files.catbox.moe/4ihgl3.gif" width="500">
 </div>
 
 <br>
