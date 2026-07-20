@@ -2,67 +2,76 @@
   <img src="https://files.catbox.moe/3x887i.gif" alt="Banner">
 </p>
 
-<div align="center">
-  <img src="https://files.catbox.moe/4ihgl3.gif" width="500">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://files.catbox.moe/63102d.gif" width="700">
-</div>
-
 <p align="center">
-  <img src="https://files.catbox.moe/qxdq9e.gif" alt="Hakari Banner">
+  <img src="https://files.catbox.moe/4ihgl3.gif" width="500">
 </p>
 
-# 🎰 YARO
+<p align="center">
+  <img src="https://files.catbox.moe/63102d.gif" width="700">
+</p>
 
-> **「賭けるしかない。」**  
-> *There's only one thing left to do... gamble.*
+# <p align="center">🎰 𝒀𝒂𝒓𝒐 🎰</p>
 
-### ☕ コーヒーと運命
-> *Kōhī to Unmei* — **Coffee & Fate**
+<p align="center">
 
-> **「一杯のコーヒー、一度の勝負。」**  
-> *One cup of coffee. One chance to win.*
+**「賭けるしかない。」**
+
+*"There's only one thing left to do... Gamble."*
+
+☕ **珈琲** *(Kōhī • Coffee)*
+
+**「一杯の珈琲、一度の勝負。」**
+
+*"One cup of coffee. One gamble."*
+
+</p>
 
 ---
 
-### 🖤 About Me
+## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 ```txt
-Name    :: Yaro
-Age     :: 19
-Vibe    :: Melancholy
-Anime   :: Jujutsu Kaisen
-Favorite:: Kinji Hakari
-Status  :: ALL IN
+╭────────────────────────────╮
+│  Name     :: Yaro          │
+│  Age      :: 19            │
+│  Vibe     :: Melancholy    │
+│  Anime    :: Jujutsu Kaisen│
+│  Favorite :: Kinji Hakari  │
+│  Coffee   :: Always ☕      │
+│  Status   :: ALL IN 🎰      │
+╰────────────────────────────╯
 ```
-
----
-
-### 🎲 Philosophy
 
 > "Fortune favors the bold."
 
-> "Every gamble writes a different future."
-
-> **「運は勇者に味方する。」**  
+> 「運命は勇者に味方する。」
 > *Luck stands with the brave.*
 
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/32qlqu.png" alt="Image">
+  <img src="https://files.catbox.moe/qxdq9e.gif" width="700">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/cfbw3a.gif" alt="GIF 1">
+  <img src="https://files.catbox.moe/32qlqu.png" width="500">
+</p>
+
+---
+
+## 🎲 𝓘𝓭𝓵𝓮 𝓓𝓮𝓪𝓽𝓱 𝓖𝓪𝓶𝓫𝓵𝓮
+
+> **"Every spin decides a future."**
+
+> **「運命は回り続ける。」**
+> *Destiny keeps spinning.*
+
+<p align="center">
+  <img src="https://files.catbox.moe/cfbw3a.gif" width="500">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/zq6bkj.gif" alt="GIF 2">
+  <img src="https://files.catbox.moe/zq6bkj.gif" width="500">
 </p>
 
 ---
@@ -71,10 +80,6 @@ Status  :: ALL IN
 
 🎰 ♠️ ♦️ ♣️ ♥️
 
-**ALL IN • JACKPOT • IDLE DEATH GAMBLE • 777**
-
-「勝負はここからだ。」
-
-*The real gamble begins now.*
+**ALL IN • JACKPOT • 777 • FEVER MODE**
 
 </p>
