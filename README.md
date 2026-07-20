@@ -80,20 +80,16 @@
 ---
 
 <p align="center">
+  <img src="https://files.catbox.moe/7c2xuy.png" alt="Header">
+</p>
+
+<p align="center">
   <img src="https://files.catbox.moe/3p9ilx.gif" width="600">
 </p>
 
 <p align="center">
   <img src="https://files.catbox.moe/rl374c.gif" width="700">
 </p>
-
-<p align="center">
-  <img src="https://files.catbox.moe/m6c5zo.gif" width="600">
-</p>
-
----
-
-<p align="center">
 
 🎰 ♠ ♦ ♣ ♥ 🎰
 
