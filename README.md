@@ -1,4 +1,6 @@
-![](https://files.catbox.moe/5s4bf0.gif)
+<p align="center">
+  <img src="https://files.catbox.moe/3x887i.gif" alt="Banner">
+</p>
 
 <div align="center">
   <img src="https://files.catbox.moe/4ihgl3.gif" width="500">
